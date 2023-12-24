@@ -1,0 +1,23 @@
+{
+  "name": "backend-node",
+  "version": "1.0.0",
+  "description": "Learning backend with node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkulYadav/BackendNode.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Ankul Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkulYadav/BackendNode/issues"
+  },
+  "homepage": "https://github.com/AnkulYadav/BackendNode#readme"
+}
