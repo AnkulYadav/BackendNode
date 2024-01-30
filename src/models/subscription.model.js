@@ -1,4 +1,5 @@
 import mongoose, { Schema } from "mongoose";
+import { asyncHanlder } from "../utils/asyncHandler";
 
 
 const subscriptionSchema = new Schema(
@@ -16,5 +17,6 @@ const subscriptionSchema = new Schema(
         timestamps: true,
     }
 )
+
 
 export const Subscription = mongoose.model("Subscription",subscriptionSchema)
